@@ -1,0 +1,6 @@
+../Core/Src/siggen.c:28:6:SigGen_NextFreq	2
+../Core/Src/siggen.c:35:6:SigGen_NextWave	3
+../Core/Src/siggen.c:53:6:SigGen_NextMode	3
+../Core/Src/siggen.c:71:6:SigGen_NextInc	5
+../Core/Src/siggen.c:94:6:SigGen_Update	1
+../Core/Src/siggen.c:101:6:LCD_Update	9
