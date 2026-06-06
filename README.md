@@ -3,7 +3,9 @@ The aim is to create a hobbyist signal generator using the AD9833, with addition
 
 ## Demo video
 
-[![Watch demo](https://img.youtube.com/vi/bJmLJTn0Q5A/hqdefault.jpg)](https://youtube.com/shorts/bJmLJTn0Q5A)
+<a href="https://youtube.com/shorts/bJmLJTn0Q5A">
+  <img src="https://img.youtube.com/vi/bJmLJTn0Q5A/hqdefault.jpg" width="300">
+</a>
 
  # Features
 -adjustable wave shape - sinusoidial, triangle, rectangular
