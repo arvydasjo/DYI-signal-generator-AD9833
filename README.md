@@ -1,7 +1,7 @@
 # Description
 The aim is to create a hobbyist signal generator using the AD9833, with additional custom features such as an LCD screen and control knobs.
 <video controls width="600">
-  <source src="media/demo.mp4" type="video/mp4">
+  <source src="IMG_1646.mov" type="video/mov">
 </video>
 
  # Features
