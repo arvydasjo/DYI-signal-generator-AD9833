@@ -1,5 +1,9 @@
 # Description
 The aim is to create a hobbyist signal generator using the AD9833, with additional custom features such as an LCD screen and control knobs.
+<video controls width="600">
+  <source src="media/demo.mp4" type="video/mp4">
+</video>
+
  # Features
 -adjustable wave shape - sinusoidial, triangle, rectangular
 -adjustable frequancy (1Hz - 50kHz)
