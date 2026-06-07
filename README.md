@@ -9,7 +9,7 @@ The aim is to create a hobbyist signal generator using the AD9833, with addition
 
  # Features
 - adjustable wave shape - sinusoidial, triangle, rectangular
-- adjustable frequancy (1Hz - 50kHz)
+- adjustable frequancy (10Hz - 50kHz)
 - adjustable amplitude
 - DC offset
 - battery powered
