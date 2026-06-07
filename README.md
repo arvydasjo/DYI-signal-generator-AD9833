@@ -22,7 +22,3 @@ The aim is to create a hobbyist signal generator using the AD9833, with addition
 - firmware: source code for the microcontroller
 # Tools used in the project
 - STMCUBEIDE, HAL libraries
-# STM32 features
-- GPIO, EXTI – used for knobs functionality 
-- SPI – communication protocol used for AD9833 
-- I2C – communication protocol used for LCD 
